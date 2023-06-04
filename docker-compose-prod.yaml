@@ -3,7 +3,7 @@ version: "3.8"
 services:
 
   php:
-    image: 'shabhi2808/deliveryprime:latest'
+    image: 'mohsin030/hotelmanage1:latest'
     ports:
       - '8000:80'
     depends_on:
